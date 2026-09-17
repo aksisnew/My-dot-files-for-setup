@@ -9,4 +9,9 @@ these are configuration/dotfiles i use on my various Linux based computers I use
 
 > termux is not maintained by me nr created by me I just use it and it is genuinely helpful for my setup, termux had no association with me to say this!
 
-here
+## My setup further
+
+1. I use both of my systems that's my Ubuntu 24 and Termux (mind that I use termux on a secondary phone with no personal data !) on daily basis so it helps me a lot to create these files.
+2. I fill add further things in it as I need
+3. Before executing anything from this repository its a good thing to review things on your own.
+   
